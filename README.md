@@ -100,11 +100,7 @@ Frontend-разработчик. Делаю интерфейсы, которые
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/output/snake.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/output/snake.svg"/>
-    <img src="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/output/snake.svg" alt="contribution snake" width="100%"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/main/assets/snake.svg" alt="contribution snake" width="100%"/>
 </div>
 
 ---
