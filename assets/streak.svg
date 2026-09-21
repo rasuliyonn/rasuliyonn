@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="165" viewBox="0 0 880 165" fill="none" role="img" aria-label="СЕРИЯ КОММИТОВ">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.6" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="164" rx="14" fill="#0B1120" stroke="#1E293B"/>
+  <rect x="26" y="0" width="64" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="26" y="40" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#38BDF8" letter-spacing="1.6">СЕРИЯ КОММИТОВ</text>
+  <text x="147" y="74" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9" letter-spacing="1">Текущая серия</text>
+  <text x="147" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#38BDF8">1</text>
+  <text x="147" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">дней</text>
+  <line x1="293" y1="62" x2="293" y2="146" stroke="#1E293B"/>
+  <text x="440" y="74" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9" letter-spacing="1">Лучшая серия</text>
+  <text x="440" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#818CF8">9</text>
+  <text x="440" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">дней</text>
+  <line x1="587" y1="62" x2="587" y2="146" stroke="#1E293B"/>
+  <text x="733" y="74" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9" letter-spacing="1">Всего контрибуций</text>
+  <text x="733" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#C084FC">1 056</text>
+  <text x="733" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">за год</text>
+</svg>

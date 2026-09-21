@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="282" viewBox="0 0 430 282" fill="none" role="img" aria-label="ТОП ЯЗЫКОВ">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.6" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="429" height="281" rx="14" fill="#0B1120" stroke="#1E293B"/>
+  <rect x="26" y="0" width="64" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="26" y="40" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#38BDF8" letter-spacing="1.6">ТОП ЯЗЫКОВ</text>
+  <text x="26" y="78" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">TypeScript</text>
+  <text x="404" y="78" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">32.6%</text>
+  <rect x="26" y="85" width="378" height="7" rx="3.5" fill="#1E293B"/>
+  <rect x="26" y="85" width="123.2" height="7" rx="3.5" fill="#3178C6"/>
+  <text x="26" y="112" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">HTML</text>
+  <text x="404" y="112" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">31.7%</text>
+  <rect x="26" y="119" width="378" height="7" rx="3.5" fill="#1E293B"/>
+  <rect x="26" y="119" width="119.8" height="7" rx="3.5" fill="#E34C26"/>
+  <text x="26" y="146" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">CSS</text>
+  <text x="404" y="146" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">17.2%</text>
+  <rect x="26" y="153" width="378" height="7" rx="3.5" fill="#1E293B"/>
+  <rect x="26" y="153" width="64.9" height="7" rx="3.5" fill="#563D7C"/>
+  <text x="26" y="180" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">JavaScript</text>
+  <text x="404" y="180" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">11.5%</text>
+  <rect x="26" y="187" width="378" height="7" rx="3.5" fill="#1E293B"/>
+  <rect x="26" y="187" width="43.7" height="7" rx="3.5" fill="#F1E05A"/>
+  <text x="26" y="214" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">EJS</text>
+  <text x="404" y="214" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">4.9%</text>
+  <rect x="26" y="221" width="378" height="7" rx="3.5" fill="#1E293B"/>
+  <rect x="26" y="221" width="18.7" height="7" rx="3.5" fill="#A91E50"/>
+  <text x="26" y="248" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">Shell</text>
+  <text x="404" y="248" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">1.2%</text>
+  <rect x="26" y="255" width="378" height="7" rx="3.5" fill="#1E293B"/>
+  <rect x="26" y="255" width="4.6" height="7" rx="3.5" fill="#89E051"/>
+</svg>

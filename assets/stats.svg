@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="282" viewBox="0 0 430 282" fill="none" role="img" aria-label="СТАТИСТИКА GITHUB">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.6" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="429" height="281" rx="14" fill="#0B1120" stroke="#1E293B"/>
+  <rect x="26" y="0" width="64" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="26" y="40" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#38BDF8" letter-spacing="1.6">СТАТИСТИКА GITHUB</text>
+  <circle cx="30" cy="74" r="4" fill="#38BDF8"/>
+  <text x="44" y="78" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9">Контрибуции за год</text>
+  <text x="404" y="78" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="15" font-weight="700" fill="#E2E8F0">1 056</text>
+  <circle cx="30" cy="108" r="4" fill="#818CF8"/>
+  <text x="44" y="112" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9">Коммиты</text>
+  <text x="404" y="112" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="15" font-weight="700" fill="#E2E8F0">1 031</text>
+  <circle cx="30" cy="142" r="4" fill="#C084FC"/>
+  <text x="44" y="146" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9">Pull Requests</text>
+  <text x="404" y="146" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="15" font-weight="700" fill="#E2E8F0">1</text>
+  <circle cx="30" cy="176" r="4" fill="#38BDF8"/>
+  <text x="44" y="180" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9">Issues</text>
+  <text x="404" y="180" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="15" font-weight="700" fill="#E2E8F0">0</text>
+  <circle cx="30" cy="210" r="4" fill="#818CF8"/>
+  <text x="44" y="214" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9">Звёзды</text>
+  <text x="404" y="214" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="15" font-weight="700" fill="#E2E8F0">1</text>
+  <circle cx="30" cy="244" r="4" fill="#C084FC"/>
+  <text x="44" y="248" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9">Репозитории</text>
+  <text x="404" y="248" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="15" font-weight="700" fill="#E2E8F0">18</text>
+</svg>

@@ -1,0 +1,52 @@
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/*.svg"
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: rasuliyonn
+          OUT_DIR: assets
+        run: python scripts/generate_stats.py
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: rasuliyonn
+          outputs: |
+            dist/snake.svg?color_snake=#818CF8&color_dots=#0B1120,#1E293B,#334155,#818CF8,#38BDF8
+
+      - name: Move snake into assets
+        run: mv dist/snake.svg assets/snake.svg
+
+      - name: Commit assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: обновить графики профиля"
+          file_pattern: "assets/*.svg"

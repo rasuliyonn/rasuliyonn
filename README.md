@@ -87,21 +87,23 @@ Frontend-разработчик. Делаю интерфейсы, которые
 ## Статистика
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rasuliyonn&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=818CF8&text_color=9FB0C9&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasuliyonn&layout=compact&langs_count=8&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=9FB0C9" alt="top languages"/>
+  <img src="assets/stats.svg" alt="статистика"/>
+  <img src="assets/top-langs.svg" alt="топ языков"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rasuliyonn&hide_border=true&background=0B1120&stroke=1E293B&ring=818CF8&fire=C084FC&currStreakLabel=38BDF8&sideLabels=9FB0C9&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="streak"/>
+  <img src="assets/streak.svg" alt="серия коммитов" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasuliyonn&bg_color=0B1120&color=38BDF8&line=818CF8&point=C084FC&area=true&area_color=818CF8&hide_border=true" alt="activity graph" width="100%"/>
+  <img src="assets/activity.svg" alt="активность за год" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/main/assets/snake.svg" alt="contribution snake" width="100%"/>
+  <img src="assets/snake.svg" alt="contribution snake" width="100%"/>
 </div>
+
+<sub align="center">Графики генерируются автоматически каждую ночь — без сторонних сервисов.</sub>
 
 ---
 
