@@ -1,0 +1,123 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/main/assets/banner.svg" alt="Muhammadali — Frontend / Fullstack Developer" width="100%"/>
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/rasuliyonn?tab=followers">
+    <img src="https://img.shields.io/github/followers/rasuliyonn?style=for-the-badge&label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&color=818CF8&labelColor=0B1120" alt="followers"/>
+  </a>
+  <a href="https://github.com/rasuliyonn?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frasuliyonn&color=38BDF8&labelColor=0B1120" alt="repos"/>
+  </a>
+  <img src="https://img.shields.io/badge/%D0%A1%D1%82%D0%B0%D0%B6-%D1%81%202022%20%D0%B3%D0%BE%D0%B4%D0%B0-C084FC?style=for-the-badge&labelColor=0B1120" alt="since 2022"/>
+</div>
+
+<br/>
+
+## Обо мне
+
+Frontend-разработчик. Делаю интерфейсы, которые быстро загружаются и приятно работают: React и Next.js на TypeScript, Tailwind для вёрстки. Когда проекту нужен бэкенд — пишу на Node.js или Python (FastAPI).
+
+- 🎯 **Фокус:** строгая типизация, чистая вёрстка, аккуратные состояния загрузки и ошибок
+- ⚡ **Подход:** сначала прототип, потом рефакторинг — но без долгов в виде «потом починю»
+- 🧩 **Верю, что** хороший интерфейс — это в первую очередь предсказуемость, а не анимации
+- 🌱 **Сейчас разбираюсь:** архитектура больших React-приложений, оптимизация Core Web Vitals
+
+---
+
+## Стек
+
+**Языки**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0B1120)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0B1120)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=0B1120)
+
+**Backend и инструменты**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## Избранные проекты
+
+| Проект | Стек | Что это | Демо |
+| :--- | :--- | :--- | :---: |
+| **[karaoke-bar](https://github.com/rasuliyonn/karaoke-bar)** | React 19 · TypeScript · Vite · Tailwind | Сайт караоке-бара: меню, залы, бронирование | — |
+| **[MaxDev](https://github.com/rasuliyonn/MaxDev)** | Next.js · TypeScript · Prisma | Фуллстек-приложение с базой данных и серверной логикой | — |
+| **[vash-podyomnik-site](https://github.com/rasuliyonn/vash-podyomnik-site)** | TypeScript | Корпоративный сайт: каталог оборудования и заявки | — |
+| **[max-shop](https://github.com/rasuliyonn/max-shop)** | JavaScript | Интернет-магазин: каталог, корзина, оформление заказа | [↗](https://max-shop-nine.vercel.app) |
+| **[deki](https://github.com/rasuliyonn/deki)** | CSS · HTML | Продающая посадочная страница | [↗](https://deki-three.vercel.app) |
+| **[led-key](https://github.com/rasuliyonn/led-key)** | EJS · Node.js | Сайт услуг с серверным рендерингом | [↗](https://led-key.vercel.app) |
+
+<details>
+<summary><b>Ещё проекты</b></summary>
+<br/>
+
+| Проект | Стек | Что это | Демо |
+| :--- | :--- | :--- | :---: |
+| **[ege](https://github.com/rasuliyonn/ege)** | HTML | Учебный лендинг для подготовки к ЕГЭ | [↗](https://ege-seven.vercel.app) |
+| **[CBJ-Detail](https://github.com/rasuliyonn/CBJ-Detail)** | CSS · HTML | Сайт-визитка с политикой конфиденциальности | — |
+| **[nike-jordan](https://github.com/rasuliyonn/nike-jordan)** | CSS · HTML | Адаптивная вёрстка интернет-магазина | — |
+| **[T-Pass](https://github.com/rasuliyonn/T-Pass)** | HTML · JavaScript | Лендинг с интерактивной формой | — |
+| **[Blanko](https://github.com/rasuliyonn/Blanko)** | HTML · CSS | Многостраничная вёрстка | — |
+| **[Todo-list](https://github.com/rasuliyonn/Todo-list)** | TypeScript · Vite | Список задач с хранением состояния | — |
+| **[FastAPI-Auth](https://github.com/rasuliyonn/FastAPI-Auth)** | Python · FastAPI | Аутентификация на FastAPI | — |
+| **[PasswordGenerator](https://github.com/rasuliyonn/PasswordGenerator)** | Python | Генератор надёжных паролей | — |
+
+</details>
+
+---
+
+## Статистика
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rasuliyonn&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=818CF8&text_color=9FB0C9&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasuliyonn&layout=compact&langs_count=8&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=9FB0C9" alt="top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rasuliyonn&hide_border=true&background=0B1120&stroke=1E293B&ring=818CF8&fire=C084FC&currStreakLabel=38BDF8&sideLabels=9FB0C9&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasuliyonn&bg_color=0B1120&color=38BDF8&line=818CF8&point=C084FC&area=true&area_color=818CF8&hide_border=true" alt="activity graph" width="100%"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/output/snake.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/output/snake.svg" alt="contribution snake" width="100%"/>
+  </picture>
+</div>
+
+---
+
+## Контакты
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-rasuliyonn-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120)](https://github.com/rasuliyonn)
+[![Email](https://img.shields.io/badge/Email-rasuliyonn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120)](mailto:rasuliyonn@gmail.com)
+
+<br/>
+
+<i>Открыт к интересным проектам и сотрудничеству — пишите.</i>
+
+</div>
