@@ -10,6 +10,10 @@ on:
     paths-ignore:
       - "assets/snake.svg"
 
+concurrency:
+  group: snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
