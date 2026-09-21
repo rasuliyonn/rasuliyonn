@@ -46,7 +46,29 @@ jobs:
         run: mv dist/snake.svg assets/snake.svg
 
       - name: Commit assets
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: обновить графики профиля"
-          file_pattern: "assets/*.svg"
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/*.svg
+          if git diff --staged --quiet; then
+            echo "Изменений нет — коммит не нужен"
+            exit 0
+          fi
+
+          git commit -m "chore: обновить графики профиля"
+
+          # Параллельный прогон мог уйти вперёд — подтягиваем и повторяем.
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "Запушено с попытки $attempt"
+              exit 0
+            fi
+            echo "Push отклонён — rebase и повтор (попытка $attempt)"
+            git pull --rebase --autostash origin main
+            sleep 5
+          done
+
+          echo "Не удалось запушить после 5 попыток" >&2
+          exit 1
