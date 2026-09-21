@@ -14,10 +14,10 @@
   <text x="147" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">дней</text>
   <line x1="293" y1="62" x2="293" y2="146" stroke="#1E293B"/>
   <text x="440" y="74" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9" letter-spacing="1">Лучшая серия</text>
-  <text x="440" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#818CF8">9</text>
+  <text x="440" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#818CF8">3</text>
   <text x="440" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">дней</text>
   <line x1="587" y1="62" x2="587" y2="146" stroke="#1E293B"/>
   <text x="733" y="74" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9" letter-spacing="1">Всего контрибуций</text>
-  <text x="733" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#C084FC">1 056</text>
+  <text x="733" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#C084FC">135</text>
   <text x="733" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">за год</text>
 </svg>

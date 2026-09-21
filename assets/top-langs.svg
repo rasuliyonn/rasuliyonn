@@ -10,27 +10,27 @@
   <rect x="26" y="0" width="64" height="3" rx="1.5" fill="url(#accent)"/>
   <text x="26" y="40" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#38BDF8" letter-spacing="1.6">ТОП ЯЗЫКОВ</text>
   <text x="26" y="78" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">TypeScript</text>
-  <text x="404" y="78" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">32.6%</text>
+  <text x="404" y="78" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">32.3%</text>
   <rect x="26" y="85" width="378" height="7" rx="3.5" fill="#1E293B"/>
-  <rect x="26" y="85" width="123.2" height="7" rx="3.5" fill="#3178C6"/>
+  <rect x="26" y="85" width="122.0" height="7" rx="3.5" fill="#3178C6"/>
   <text x="26" y="112" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">HTML</text>
-  <text x="404" y="112" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">31.7%</text>
+  <text x="404" y="112" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">31.4%</text>
   <rect x="26" y="119" width="378" height="7" rx="3.5" fill="#1E293B"/>
-  <rect x="26" y="119" width="119.8" height="7" rx="3.5" fill="#E34C26"/>
+  <rect x="26" y="119" width="118.7" height="7" rx="3.5" fill="#E34C26"/>
   <text x="26" y="146" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">CSS</text>
-  <text x="404" y="146" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">17.2%</text>
+  <text x="404" y="146" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">17.0%</text>
   <rect x="26" y="153" width="378" height="7" rx="3.5" fill="#1E293B"/>
-  <rect x="26" y="153" width="64.9" height="7" rx="3.5" fill="#563D7C"/>
+  <rect x="26" y="153" width="64.3" height="7" rx="3.5" fill="#563D7C"/>
   <text x="26" y="180" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">JavaScript</text>
-  <text x="404" y="180" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">11.5%</text>
+  <text x="404" y="180" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">11.4%</text>
   <rect x="26" y="187" width="378" height="7" rx="3.5" fill="#1E293B"/>
-  <rect x="26" y="187" width="43.7" height="7" rx="3.5" fill="#F1E05A"/>
+  <rect x="26" y="187" width="43.2" height="7" rx="3.5" fill="#F1E05A"/>
   <text x="26" y="214" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">EJS</text>
   <text x="404" y="214" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">4.9%</text>
   <rect x="26" y="221" width="378" height="7" rx="3.5" fill="#1E293B"/>
-  <rect x="26" y="221" width="18.7" height="7" rx="3.5" fill="#A91E50"/>
-  <text x="26" y="248" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">Shell</text>
+  <rect x="26" y="221" width="18.5" height="7" rx="3.5" fill="#A91E50"/>
+  <text x="26" y="248" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E2E8F0">Python</text>
   <text x="404" y="248" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">1.2%</text>
   <rect x="26" y="255" width="378" height="7" rx="3.5" fill="#1E293B"/>
-  <rect x="26" y="255" width="4.6" height="7" rx="3.5" fill="#89E051"/>
+  <rect x="26" y="255" width="4.6" height="7" rx="3.5" fill="#3572A5"/>
 </svg>
