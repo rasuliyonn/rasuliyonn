@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/main/assets/banner.svg" alt="Muhammadali — Frontend / Fullstack Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rasuliyonn/rasuliyonn/main/assets/banner.svg" alt="Muhammadali — Fullstack разработчик: веб, .NET, Telegram-боты" width="100%"/>
 </div>
 
 <div align="center">
@@ -17,12 +17,14 @@
 
 ## Обо мне
 
-Frontend-разработчик. Делаю интерфейсы, которые быстро загружаются и приятно работают: React и Next.js на TypeScript, Tailwind для вёрстки. Когда проекту нужен бэкенд — пишу на Node.js или Python (FastAPI).
+Fullstack-разработчик. Делаю веб-приложения на React и Next.js с TypeScript, бэкенды на .NET и Node.js, и Telegram-ботов, которые работают круглосуточно без присмотра. Пишу так, чтобы через полгода самому было понятно, что здесь происходит.
 
-- 🎯 **Фокус:** строгая типизация, чистая вёрстка, аккуратные состояния загрузки и ошибок
-- ⚡ **Подход:** сначала прототип, потом рефакторинг — но без долгов в виде «потом починю»
-- 🧩 **Верю, что** хороший интерфейс — это в первую очередь предсказуемость, а не анимации
-- 🌱 **Сейчас разбираюсь:** архитектура больших React-приложений, оптимизация Core Web Vitals
+- 🎯 **Фокус:** строгая типизация, чистая вёрстка, предсказуемые состояния загрузки и ошибок
+- 🤖 **Боты:** Telegram.Bot на C#, aiogram на Python — парсеры, автопостинг, уведомления, накрутка активности
+- 🏗 **.NET:** ASP.NET Core, Clean Architecture, Dapper и EF Core, PostgreSQL, Redis, JWT-авторизация
+- 🕷 **Парсинг:** обход сайтов с ротацией прокси, выгрузка результатов в Excel и в базу
+- ⚙️ **Подход:** сначала прототип, потом рефакторинг — но без долгов в виде «потом починю»
+- 📦 **Инфраструктура:** Docker и docker-compose, автодеплой, логи, по которым видно, что упало
 
 ---
 
@@ -32,6 +34,7 @@ Frontend-разработчик. Делаю интерфейсы, которые
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0B1120)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,12 +47,35 @@ Frontend-разработчик. Делаю интерфейсы, которые
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=0B1120)
 
-**Backend и инструменты**
+**.NET и backend**
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-6B3FA0?style=for-the-badge&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-2D3748?style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Базы данных**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Боты и автоматизация**
+
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2AABEE?style=for-the-badge&logoColor=white)
+![HtmlAgilityPack](https://img.shields.io/badge/HtmlAgilityPack-512BD4?style=for-the-badge&logoColor=white)
+![ClosedXML](https://img.shields.io/badge/ClosedXML-1D6F42?style=for-the-badge&logoColor=white)
+![Serilog](https://img.shields.io/badge/Serilog-4B5563?style=for-the-badge&logoColor=white)
+
+**Инфраструктура**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -81,6 +107,19 @@ Frontend-разработчик. Делаю интерфейсы, которые
 | **[PasswordGenerator](https://github.com/rasuliyonn/PasswordGenerator)** | Python | Генератор надёжных паролей | — |
 
 </details>
+
+---
+
+## Закрытые проекты
+
+Основная работа — в приватных репозиториях, ссылок нет. Коротко о том, что внутри:
+
+| Проект | Стек | Что это |
+| :--- | :--- | :--- |
+| **Сервис карпулинга** | ASP.NET Core 8 · Clean Architecture · Dapper · PostgreSQL + PostGIS · Redis · JWT · Docker | Бэкенд платформы попутчиков: поездки, заявки, чат, авторизация, миграции. Плюс iOS-клиент на Swift + Capacitor |
+| **Парсер площадки → Telegram-бот** | .NET 10 · Telegram.Bot · EF Core + SQLite · HtmlAgilityPack · ClosedXML · Serilog | Обходит сайт через пул прокси, ведёт базу найденного, шлёт уведомления в Telegram и выгружает отчёты в Excel |
+| **Telegram-бот с очередью задач** | .NET 10 · Telegram.Bot · SQLite · Docker | Воркеры, разгадывание капчи, самопроверки, конфиг без перезапуска, логирование в файл |
+| **Платформа попутчиков POPUTI.TJ** | TypeScript · Node.js | Веб-приложение и API: поездки, бронирование, админка |
 
 ---
 
