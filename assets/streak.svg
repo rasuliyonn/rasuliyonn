@@ -18,6 +18,6 @@
   <text x="440" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">дней</text>
   <line x1="587" y1="62" x2="587" y2="146" stroke="#1E293B"/>
   <text x="733" y="74" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9" letter-spacing="1">Всего контрибуций</text>
-  <text x="733" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#C084FC">137</text>
+  <text x="733" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#C084FC">148</text>
   <text x="733" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">за год</text>
 </svg>
