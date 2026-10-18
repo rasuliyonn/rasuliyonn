@@ -23,19 +23,19 @@
   <line x1="26" y1="74.0" x2="854" y2="74.0" stroke="#1E293B" stroke-opacity="0.7"/>
   <line x1="26" y1="147.0" x2="854" y2="147.0" stroke="#1E293B" stroke-opacity="0.7"/>
   <line x1="26" y1="220.0" x2="854" y2="220.0" stroke="#1E293B" stroke-opacity="0.7"/>
-  <polygon points="26.0,220.0 26.0,220.0 41.9,220.0 57.8,220.0 73.8,220.0 89.7,220.0 105.6,220.0 121.5,220.0 137.5,220.0 153.4,220.0 169.3,220.0 185.2,220.0 201.2,220.0 217.1,220.0 233.0,220.0 248.9,134.8 264.8,220.0 280.8,220.0 296.7,220.0 312.6,116.6 328.5,220.0 344.5,220.0 360.4,220.0 376.3,220.0 392.2,189.6 408.2,207.8 424.1,220.0 440.0,195.7 455.9,201.8 471.8,201.8 487.8,189.6 503.7,165.2 519.6,220.0 535.5,74.0 551.5,140.9 567.4,116.6 583.3,213.9 599.2,220.0 615.2,220.0 631.1,220.0 647.0,220.0 662.9,220.0 678.8,207.8 694.8,177.4 710.7,201.8 726.6,220.0 742.5,207.8 758.5,220.0 774.4,220.0 790.3,220.0 806.2,116.6 822.2,220.0 838.1,220.0 854.0,220.0 854.0,220.0" fill="url(#fill)"/>
-  <polyline points="26.0,220.0 41.9,220.0 57.8,220.0 73.8,220.0 89.7,220.0 105.6,220.0 121.5,220.0 137.5,220.0 153.4,220.0 169.3,220.0 185.2,220.0 201.2,220.0 217.1,220.0 233.0,220.0 248.9,134.8 264.8,220.0 280.8,220.0 296.7,220.0 312.6,116.6 328.5,220.0 344.5,220.0 360.4,220.0 376.3,220.0 392.2,189.6 408.2,207.8 424.1,220.0 440.0,195.7 455.9,201.8 471.8,201.8 487.8,189.6 503.7,165.2 519.6,220.0 535.5,74.0 551.5,140.9 567.4,116.6 583.3,213.9 599.2,220.0 615.2,220.0 631.1,220.0 647.0,220.0 662.9,220.0 678.8,207.8 694.8,177.4 710.7,201.8 726.6,220.0 742.5,207.8 758.5,220.0 774.4,220.0 790.3,220.0 806.2,116.6 822.2,220.0 838.1,220.0 854.0,220.0" fill="none" stroke="url(#stroke)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="26.0,220.0 26.0,220.0 41.9,220.0 57.8,220.0 73.8,220.0 89.7,220.0 105.6,220.0 121.5,220.0 137.5,220.0 153.4,220.0 169.3,220.0 185.2,220.0 201.2,220.0 217.1,220.0 233.0,134.8 248.9,220.0 264.8,220.0 280.8,220.0 296.7,116.6 312.6,220.0 328.5,220.0 344.5,220.0 360.4,220.0 376.3,189.6 392.2,207.8 408.2,220.0 424.1,195.7 440.0,201.8 455.9,201.8 471.8,189.6 487.8,165.2 503.7,220.0 519.6,74.0 535.5,140.9 551.5,116.6 567.4,213.9 583.3,220.0 599.2,220.0 615.2,220.0 631.1,220.0 647.0,220.0 662.9,207.8 678.8,177.4 694.8,201.8 710.7,220.0 726.6,207.8 742.5,220.0 758.5,220.0 774.4,220.0 790.3,116.6 806.2,220.0 822.2,220.0 838.1,220.0 854.0,220.0 854.0,220.0" fill="url(#fill)"/>
+  <polyline points="26.0,220.0 41.9,220.0 57.8,220.0 73.8,220.0 89.7,220.0 105.6,220.0 121.5,220.0 137.5,220.0 153.4,220.0 169.3,220.0 185.2,220.0 201.2,220.0 217.1,220.0 233.0,134.8 248.9,220.0 264.8,220.0 280.8,220.0 296.7,116.6 312.6,220.0 328.5,220.0 344.5,220.0 360.4,220.0 376.3,189.6 392.2,207.8 408.2,220.0 424.1,195.7 440.0,201.8 455.9,201.8 471.8,189.6 487.8,165.2 503.7,220.0 519.6,74.0 535.5,140.9 551.5,116.6 567.4,213.9 583.3,220.0 599.2,220.0 615.2,220.0 631.1,220.0 647.0,220.0 662.9,207.8 678.8,177.4 694.8,201.8 710.7,220.0 726.6,207.8 742.5,220.0 758.5,220.0 774.4,220.0 790.3,116.6 806.2,220.0 822.2,220.0 838.1,220.0 854.0,220.0" fill="none" stroke="url(#stroke)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
   <text x="26.0" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">окт</text>
-  <text x="73.8" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">ноя</text>
-  <text x="153.4" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">дек</text>
-  <text x="217.1" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">янв</text>
-  <text x="280.8" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">фев</text>
-  <text x="344.5" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">мар</text>
-  <text x="424.1" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">апр</text>
-  <text x="487.8" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">май</text>
-  <text x="567.4" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">июн</text>
-  <text x="631.1" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">июл</text>
-  <text x="694.8" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">авг</text>
-  <text x="774.4" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">сен</text>
+  <text x="57.8" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">ноя</text>
+  <text x="137.5" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">дек</text>
+  <text x="201.2" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">янв</text>
+  <text x="264.8" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">фев</text>
+  <text x="328.5" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">мар</text>
+  <text x="408.2" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">апр</text>
+  <text x="471.8" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">май</text>
+  <text x="551.5" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">июн</text>
+  <text x="615.2" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">июл</text>
+  <text x="678.8" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">авг</text>
+  <text x="758.5" y="246" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#64748B">сен</text>
   <text x="854" y="40" text-anchor="end" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="12" fill="#9FB0C9">макс. 24/нед</text>
 </svg>
