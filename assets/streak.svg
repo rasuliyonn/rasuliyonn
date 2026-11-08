@@ -10,7 +10,7 @@
   <rect x="26" y="0" width="64" height="3" rx="1.5" fill="url(#accent)"/>
   <text x="26" y="40" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" fill="#38BDF8" letter-spacing="1.6">СЕРИЯ КОММИТОВ</text>
   <text x="147" y="74" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9" letter-spacing="1">Текущая серия</text>
-  <text x="147" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#38BDF8">1</text>
+  <text x="147" y="122" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="42" font-weight="700" fill="#38BDF8">0</text>
   <text x="147" y="144" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#64748B">дней</text>
   <line x1="293" y1="62" x2="293" y2="146" stroke="#1E293B"/>
   <text x="440" y="74" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9FB0C9" letter-spacing="1">Лучшая серия</text>
